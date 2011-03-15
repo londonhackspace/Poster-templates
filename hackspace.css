@@ -1,0 +1,150 @@
+body {
+	margin: 0;
+	padding: 0;
+	/*font-size: 14px;*/
+	font-size: 12px;
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+div#a3p {
+	width: 801px;
+	height: 1044px;
+	/*border: 1px solid black;
+	padding: 72px 108px;*/
+}
+
+
+div#a5p {
+	width: 430px;
+	height: 522px;
+	font-size: 75%;
+	/*border: 1px solid black;
+	padding: 72px 108px;*/
+}
+
+div#a3l {
+	width: 1044px;
+	height: 801px;
+	/*border: 1px solid black;
+	padding: 72px 108px;*/
+}
+
+div#header {
+}
+
+object#logo {
+	float: left;
+}
+
+div#header h1 {
+	float: left;
+	margin-left: 20px;
+	font-size: 340%;
+}
+
+div#subheader {
+	text-align: center;
+	margin: 20px 0;
+	font-size: 130%;
+	font-weight: bold;
+}
+
+div#a3p div#left {
+	float: left;
+	width: 475px;
+	margin-right: 15px;
+}
+
+div#a3l div#left {
+	float: left;
+	width: 100%;
+	margin-right: 15px;
+}
+
+div#right {
+	float: left;
+	width: 311px;
+}
+
+div.box {
+	margin-bottom: 15px;
+	padding: 10px;
+	border: 1px solid black;
+	-moz-border-radius-topleft: 10px;
+	-webkit-border-top-left-radius: 10px;
+	-moz-border-radius-topright: 10px;
+	-webkit-border-top-right-radius: 10px;
+	-moz-border-radius-bottomleft: 10px;
+	-webkit-border-bottom-left-radius: 10px;
+	-moz-border-radius-bottomright: 10px;
+	-webkit-border-bottom-right-radius: 10px;
+}
+
+div.box h2 {
+	font-size: 120%;
+	margin: 0;
+	padding: 3px 5px;
+	border: 1px solid black;
+	-moz-border-radius-topleft: 5px;
+	-webkit-border-top-left-radius: 5px;
+	-moz-border-radius-topright: 5px;
+	-webkit-border-top-right-radius: 5px;
+	-moz-border-radius-bottomleft: 5px;
+	-webkit-border-bottom-left-radius: 5px;
+	-moz-border-radius-bottomright: 5px;
+	-webkit-border-bottom-right-radius: 5px;
+}
+
+div.extinguisher {
+	float: left;
+	width: 135px;
+	border: 1px solid black;
+	margin-bottom: 10px;
+	background-color: white;
+}
+
+div.extinguisher h3 {
+	margin: 0;
+	font-size: 100%;
+	text-align: center;
+	display: block;
+	padding: 2px;
+}
+
+div.extinguisher p {
+	margin: 3px;
+}
+
+dl {
+	padding-left: 15px;
+	float: left;
+	width: 180px;
+}
+
+dl dt {
+	font-weight: bold;
+}
+
+ul {
+	list-style-type: square;
+	padding-left: 25px;
+}
+
+sub {
+	font-size: 80%;
+}
+
+div.clear {
+	clear: both;
+}
+
+div#a5p div#subheader {
+        font-size: 280%;
+}
+div#a5p div.box h2 {
+        font-size: 150%;
+}
+div#a5p p {     
+        font-size: 140%;
+}
+
